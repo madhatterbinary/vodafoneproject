@@ -55,7 +55,7 @@ export const getPhonesStart = () => {
     };
 };
 
-export const getPhones = (token, userId) => {
+export const getPhones = () => {
     return dispatch => {
         dispatch(getPhonesStart());
         axios.get( '/0.json')
