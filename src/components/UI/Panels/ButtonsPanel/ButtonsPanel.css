@@ -1,0 +1,15 @@
+.ButtonsPanel {
+    padding-top: 0px;
+    max-width: 100%;
+    width: 600px!important;
+    display: flex;
+    flex-direction: row;
+  }
+  .ButtonsPanel > div {
+    width: 100%;
+  }
+  @media screen and (max-width: 630px) {
+    .ButtonsPanel {
+        padding-left: 20px;
+    }
+}

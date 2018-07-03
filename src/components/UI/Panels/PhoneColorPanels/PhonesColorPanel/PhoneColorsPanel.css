@@ -1,0 +1,11 @@
+
+  .PhoneColorsPanel {
+    padding-top: 0px;
+    max-width: 100%;
+    width: 600px!important;
+    display: flex;
+    flex-direction: column;
+  }
+  .PhoneColorsPanel > div {
+    width: 100%;
+  }

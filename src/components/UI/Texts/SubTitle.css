@@ -1,0 +1,15 @@
+.SubTitle {
+    display: inline-block!important;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-family:"Work Sans";
+    font-weight:300;
+    padding-right:3px;
+    left: 5px;
+    position: relative;
+}
+.SubTitle span {
+    font-weight:500;
+    padding: 4px;
+    
+}

@@ -1,0 +1,17 @@
+
+.PhonesHeaderPanel {
+    padding-top: 0px;
+    max-width: 100%;
+    width: 580px!important;
+    display: flex;
+    flex-direction: column;
+  }
+  .PhonesHeaderPanel > div {
+    width: 100%;
+  }
+
+  @media screen and (max-width: 630px) {
+    .PhonesHeaderPanel {
+        padding-left: 20px;
+    }
+}

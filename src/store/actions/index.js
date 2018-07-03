@@ -1,0 +1,3 @@
+export {
+    getPhones
+} from './phone';

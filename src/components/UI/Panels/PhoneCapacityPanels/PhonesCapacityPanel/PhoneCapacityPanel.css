@@ -1,0 +1,11 @@
+
+  .PhoneCapacityPanel {
+    padding-top: 0px;
+    max-width: 100%;
+    width: 580px!important;
+    display: flex;
+    flex-direction: column;
+  }
+  .PhoneCapacityPanel > div {
+    width: 100%;
+  }

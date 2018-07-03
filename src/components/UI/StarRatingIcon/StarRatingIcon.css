@@ -1,0 +1,7 @@
+.StarRatingIcon {
+   display: inline-block!important;
+}
+
+.StarRatingIcon img {
+    width: 25%;
+}

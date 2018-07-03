@@ -1,0 +1,10 @@
+.Silver {
+    position: relative;
+    bottom: 50px;
+}
+@media screen and (max-width: 998px) {
+    .Silver {
+        position: relative;
+        bottom: 0px;
+    }
+}
