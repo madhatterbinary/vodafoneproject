@@ -50,7 +50,7 @@ TOOLINGS:
 
 5 - The project uses React-Material-UI for creating the visuals and layouts together with the use of flexbox for responsivieness and mobile devices compatibility.
 
-6 - The project is also integrated with firebase database (https://vodafone-ulysses.firebaseio.com/0.json).Configuration is set in the index.html.
+6 - The project is also integrated with firebase database (https://vodafone-ulysses.firebaseio.com/0.json). Configuration is set in the index.html.
 
 7 - Unit Testing Jest is installed, but the project didn't covered testing due to time constrains.
 # vodafoneproject
