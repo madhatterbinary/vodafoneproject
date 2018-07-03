@@ -1,3 +1,11 @@
+How to use the downloaded files
+
+1) Run "npm install" in the extracted folder
+2) Run "npm start" to view the project
+3) Open your browser in your localhost port 3000
+4) To deploy run npm run-script build
+
+
 STRUCTURE:
 
 The main architeture of the project is divided in two main sections:
